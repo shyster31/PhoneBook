@@ -20,8 +20,8 @@ public class ItemService {
             String firstName,
             String lastName,
             String patronymic,
-            String phone,
-            String homePhone,
+                        String homePhone,
+                        String phone,
             String email,
             String adress) {
 
